@@ -11,7 +11,7 @@
   ],
   "repository": "jshttp/proxy-addr",
   "dependencies": {
-    "forwarded": "git@github.com:auth0/forwarded.git#auth0-fix-unix-socket",
+    "forwarded": "git+ssh://git@github.com:auth0/forwarded.git#auth0-fix-unix-socket",
     "ipaddr.js": "1.3.0"
   },
   "devDependencies": {
